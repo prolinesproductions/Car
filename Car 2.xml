@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Car 2</ModName>
+  <ModDiscription>Add cars to Parkitect</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Car 2@car2</OBJName>
+      <Type>deco</Type>
+      <inGameName>Car_2</inGameName>
+      <price>0</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category />
+      <heightDelta>0</heightDelta>
+      <heightDelta>0</heightDelta>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>F20000</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+  </Objects>
+</Mod>

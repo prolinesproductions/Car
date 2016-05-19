@@ -1,0 +1,80 @@
+[16-05-08 12:25:11] Info: Compiling Car 2 to bin/build-160508122511946.dll...
+[16-05-08 12:25:11] Info: Compiling from `ModSparkLoader.csproj`.
+[16-05-08 12:25:11] Info: Resolved assembly reference `Assembly-CSharp` to `d:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-05-08 12:25:11] Info: IGNORING assembly reference `Depender`
+[16-05-08 12:25:11] Info: Resolved assembly reference `System` to `System.dll`
+[16-05-08 12:25:11] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-05-08 12:25:11] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-05-08 12:25:11] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-05-08 12:25:11] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-05-08 12:25:11] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-05-08 12:25:11] Info: Resolved assembly reference `UnityEngine` to `d:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-05-08 12:25:11] Info: Resolved assembly reference `UnityEngine.UI` to `d:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-05-08 12:25:11] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `C:\Users\liam\Documents\Parkitect\pnmods\Car 2`.
+[16-05-08 12:25:11] Info: Compile using compiler version v3.5.
+[16-05-08 12:25:19] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-08 12:25:19] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-08 12:37:01] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-08 12:37:01] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-08 12:44:50] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-08 12:44:50] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-08 13:52:17] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-08 13:52:17] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-10 20:24:16] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 20:24:16] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-10 21:54:22] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:54:22] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-10 21:55:00] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-10 21:55:00] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 00:30:16] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 00:30:16] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 00:31:57] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 00:31:57] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 00:34:06] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 00:34:06] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 20:48:38] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 20:48:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 20:49:25] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 20:49:25] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 20:49:55] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 20:49:55] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 20:51:26] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 20:51:26] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 20:52:49] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 20:52:49] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 20:58:35] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 20:58:35] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:00:18] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:00:18] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:02:01] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:02:01] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:03:57] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:03:57] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:05:55] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:05:55] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:07:17] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:07:17] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:07:50] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:07:50] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:09:50] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:09:50] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:10:46] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:10:46] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:11:21] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:11:21] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:12:57] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:12:57] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:13:41] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:13:41] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:14:00] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:14:00] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-12 21:20:39] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-12 21:20:39] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-19 20:13:09] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-19 20:13:09] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-19 20:15:46] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-19 20:15:46] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-19 22:33:19] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-19 22:33:19] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-19 22:42:57] Info: Loaded build-160508122511946, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-19 22:42:57] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
